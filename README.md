@@ -1,24 +1,24 @@
 # Exploratory-Data-Analysis
 
-A] Exploratory Data Analysis - Retail
+A]  Exploratory Data Analysis - Retail
 
 This repository contains the code and data for performing Exploratory Data Analysis (EDA) on the 'SampleSuperstore' dataset. The goal of this analysis is to gain insights into the retail data and identify potential areas for improving profitability. As a business manager, understanding the weak areas and business problems is crucial to devise effective strategies for maximizing profits.
 
 
 
-B]Dataset
+B]  Dataset
 
 The dataset used for this analysis can be accessed from the following link: SampleSuperstore Dataset
 
 
 
-C]About Exploratory Data Analysis (EDA)
+C]  About Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis is a critical step in the data analysis process. It involves visualizing and summarizing the main characteristics of the dataset to gain a deeper understanding of the data and to identify patterns, trends, and potential outliers. Through EDA, we can discover valuable insights that may lead to data-driven decision-making.
 
 
 
-D]Objectives
+D]  Objectives
 
 The primary objectives of this EDA are as follows:
 
@@ -28,7 +28,7 @@ The primary objectives of this EDA are as follows:
 
    
 
-E]Tools Used
+E]  Tools Used
 
 For this analysis, you can choose any of the following tools according to your preference and expertise:
 
